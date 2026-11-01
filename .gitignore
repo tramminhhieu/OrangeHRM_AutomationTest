@@ -1,0 +1,23 @@
+# ===== Thư viện =====
+node_modules/
+
+# ===== Kết quả chạy test =====
+reports/
+allure-results/
+allure-report/
+test-results/
+playwright-report/
+
+# ===== File log =====
+*.log
+npm-debug.log*
+
+# ===== File build TypeScript (nếu có) =====
+dist/
+
+# ===== File hệ điều hành =====
+.DS_Store
+Thumbs.db
+
+# ===== File của IDE =====
+.idea/
